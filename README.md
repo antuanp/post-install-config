@@ -17,34 +17,65 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Created two new roles for Agents and their departments
+- configured and created team roles and allow roles so anyone can create tickets
+- created two agent roles and two user roles
+- Created 3 SEV levels for tickets 
+- Created help topics for users
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HBBFJaO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <p>
+<img src=https://i.imgur.com/bpCZsLI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                                                                                
+Created two new roles for Agents and their departments that will give permission to create and edit anything. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2ZJooQm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ <p>
+<img src="https://i.imgur.com/JaHEx6B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>                                                                                                
+configured and created team roles and allow roles so anyone can create tickets. Level 1 acts as the first stop for any issues and level 2 supports any further issues that need to be resolved. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/NpVKCpm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+<img src="https://i.imgur.com/6JGVqcY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+created two agent roles and two user roles
+</p>
+<br />
+ 
+<p>
+<img src="https://i.imgur.com/2OA1Ajb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+Created 3 SEV levels for tickets
+</p>
+<br />
+ 
+<p>
+<img src="https://i.imgur.com/cMHrpOL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+Created help topics for users to report issues that need to be sloved.
 </p>
 <br />
