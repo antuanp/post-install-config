@@ -26,11 +26,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/HBBFJaO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fsI8GVq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   <p>
-<img src=https://i.imgur.com/bpCZsLI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TdqAkNc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
                                                                                                 
@@ -39,7 +39,7 @@ Created two new roles for Agents and their departments that will give permission
 <br />
 
 <p>
-<img src="https://i.imgur.com/2ZJooQm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2d2A8gZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
@@ -55,7 +55,7 @@ configured and created team roles and allow roles so anyone can create tickets. 
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/6JGVqcY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hnRXiz9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 created two agent roles and two user roles
@@ -63,7 +63,7 @@ created two agent roles and two user roles
 <br />
  
 <p>
-<img src="https://i.imgur.com/2OA1Ajb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xhLYWYk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  
